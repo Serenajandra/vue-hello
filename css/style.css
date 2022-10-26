@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+main{
+    background-color: chocolate;
+}
+.grey{
+    background-color: darkslategrey;
+}
+.white_text{
+    color: white;
+}
